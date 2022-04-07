@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/hardened_clay_stained_pink",
+    "up": "bgm:blocks/hardened_clay_stained_pink",
+    "north": "bgm:blocks/hardened_clay_stained_pink",
+    "east": "bgm:blocks/hardened_clay_stained_pink",
+    "south": "bgm:blocks/hardened_clay_stained_pink",
+    "west": "bgm:blocks/hardened_clay_stained_pink",
+    "particle": "bgm:blocks/hardened_clay_stained_pink"
+  }
+}

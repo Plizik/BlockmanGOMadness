@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/lucky_block_colorful",
+    "up": "bgm:blocks/lucky_block_colorful",
+    "north": "bgm:blocks/lucky_block_colorful",
+    "east": "bgm:blocks/lucky_block_colorful",
+    "south": "bgm:blocks/lucky_block_colorful",
+    "west": "bgm:blocks/lucky_block_colorful",
+    "particle": "bgm:blocks/lucky_block_colorful"
+  }
+}

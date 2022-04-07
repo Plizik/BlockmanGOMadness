@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/red_nether_brick",
+    "up": "bgm:blocks/red_nether_brick",
+    "north": "bgm:blocks/red_nether_brick",
+    "east": "bgm:blocks/red_nether_brick",
+    "south": "bgm:blocks/red_nether_brick",
+    "west": "bgm:blocks/red_nether_brick",
+    "particle": "bgm:blocks/red_nether_brick"
+  }
+}

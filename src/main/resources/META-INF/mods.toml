@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="bgm"
+version="1.0.0"
+displayName="Blockman GO Madness"
+credits="Blockman Editor for inspiring me about this :)"
+displayURL="https://blockmango.net/"
+authors="Plizik"
+description='''
+Bring Blockman GO Experience to Minecraft, and have fun with all items from the game!
+'''
+
+[[dependencies.bgm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

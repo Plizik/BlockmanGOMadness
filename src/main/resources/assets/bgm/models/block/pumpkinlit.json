@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/pumpkin_top",
+    "up": "bgm:blocks/pumpkin_top",
+    "north": "bgm:blocks/pumpkin_face_on",
+    "east": "bgm:blocks/pumpkin_side",
+    "south": "bgm:blocks/pumpkin_side",
+    "west": "bgm:blocks/pumpkin_side",
+    "particle": "bgm:blocks/pumpkin_top"
+  }
+}

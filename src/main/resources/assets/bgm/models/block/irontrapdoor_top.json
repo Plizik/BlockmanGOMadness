@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "bgm:blocks/iron_trapdoor",
+    "particle": "bgm:blocks/iron_trapdoor"
+  }
+}

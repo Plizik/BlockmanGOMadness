@@ -1,0 +1,11 @@
+{
+  "_fv": 25,
+  "_type": "tab",
+  "definition": {
+    "name": "BGM - Guns",
+    "icon": {
+      "value": "Items.CROSSBOW"
+    },
+    "showSearch": true
+  }
+}

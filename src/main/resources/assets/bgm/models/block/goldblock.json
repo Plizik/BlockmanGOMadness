@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/gold_block",
+    "up": "bgm:blocks/gold_block",
+    "north": "bgm:blocks/gold_block",
+    "east": "bgm:blocks/gold_block",
+    "south": "bgm:blocks/gold_block",
+    "west": "bgm:blocks/gold_block",
+    "particle": "bgm:blocks/gold_block"
+  }
+}

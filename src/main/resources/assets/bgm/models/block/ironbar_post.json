@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "bgm:blocks/iron_bars",
+    "pane": "bgm:blocks/iron_bars"
+  }
+}

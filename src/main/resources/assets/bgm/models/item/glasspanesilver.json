@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bgm:blocks/glass_pane_top_silver"
+  }
+}

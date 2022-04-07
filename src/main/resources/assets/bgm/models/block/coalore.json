@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/coal_ore",
+    "up": "bgm:blocks/coal_ore",
+    "north": "bgm:blocks/coal_ore",
+    "east": "bgm:blocks/coal_ore",
+    "south": "bgm:blocks/coal_ore",
+    "west": "bgm:blocks/coal_ore",
+    "particle": "bgm:blocks/coal_ore"
+  }
+}

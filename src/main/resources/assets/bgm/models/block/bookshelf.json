@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/planks_oak",
+    "up": "bgm:blocks/planks_oak",
+    "north": "bgm:blocks/bookshelf",
+    "east": "bgm:blocks/bookshelf",
+    "south": "bgm:blocks/bookshelf",
+    "west": "bgm:blocks/bookshelf",
+    "particle": "bgm:blocks/planks_oak"
+  }
+}

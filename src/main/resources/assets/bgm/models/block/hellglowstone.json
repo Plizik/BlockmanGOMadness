@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/glowstone_hell",
+    "up": "bgm:blocks/glowstone_hell",
+    "north": "bgm:blocks/glowstone_hell",
+    "east": "bgm:blocks/glowstone_hell",
+    "south": "bgm:blocks/glowstone_hell",
+    "west": "bgm:blocks/glowstone_hell",
+    "particle": "bgm:blocks/glowstone_hell"
+  }
+}

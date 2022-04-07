@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lucky_block_hollow"
+      },
+      "name": "default"
+    }
+  }
+}

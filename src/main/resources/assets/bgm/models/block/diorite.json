@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/stone_diorite",
+    "up": "bgm:blocks/stone_diorite",
+    "north": "bgm:blocks/stone_diorite",
+    "east": "bgm:blocks/stone_diorite",
+    "south": "bgm:blocks/stone_diorite",
+    "west": "bgm:blocks/stone_diorite",
+    "particle": "bgm:blocks/stone_diorite"
+  }
+}

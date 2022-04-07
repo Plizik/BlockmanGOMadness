@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/hardened_clay_stained_silver",
+    "up": "bgm:blocks/hardened_clay_stained_silver",
+    "north": "bgm:blocks/hardened_clay_stained_silver",
+    "east": "bgm:blocks/hardened_clay_stained_silver",
+    "south": "bgm:blocks/hardened_clay_stained_silver",
+    "west": "bgm:blocks/hardened_clay_stained_silver",
+    "particle": "bgm:blocks/hardened_clay_stained_silver"
+  }
+}

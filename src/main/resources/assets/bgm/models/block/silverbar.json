@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/yin_top",
+    "up": "bgm:blocks/yin_top",
+    "north": "bgm:blocks/yin_right",
+    "east": "bgm:blocks/yin_left",
+    "south": "bgm:blocks/yin_right",
+    "west": "bgm:blocks/yin_left",
+    "particle": "bgm:blocks/yin_top"
+  }
+}

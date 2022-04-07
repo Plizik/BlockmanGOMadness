@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/wool_colored_white",
+    "up": "bgm:blocks/wool_colored_white",
+    "north": "bgm:blocks/wool_colored_white",
+    "east": "bgm:blocks/wool_colored_white",
+    "south": "bgm:blocks/wool_colored_white",
+    "west": "bgm:blocks/wool_colored_white",
+    "particle": "bgm:blocks/wool_colored_white"
+  }
+}

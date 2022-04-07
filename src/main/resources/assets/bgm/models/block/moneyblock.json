@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/money_right",
+    "up": "bgm:blocks/money_top",
+    "north": "bgm:blocks/money_left",
+    "east": "bgm:blocks/money_left",
+    "south": "bgm:blocks/money_left",
+    "west": "bgm:blocks/money_left",
+    "particle": "bgm:blocks/money_right"
+  }
+}

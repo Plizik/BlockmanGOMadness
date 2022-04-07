@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/glass_lime",
+    "up": "bgm:blocks/glass_lime",
+    "north": "bgm:blocks/glass_lime",
+    "east": "bgm:blocks/glass_lime",
+    "south": "bgm:blocks/glass_lime",
+    "west": "bgm:blocks/glass_lime",
+    "particle": "bgm:blocks/glass_lime"
+  }
+}

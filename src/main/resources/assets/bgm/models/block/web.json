@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "bgm:blocks/web",
+    "particle": "bgm:blocks/web"
+  }
+}

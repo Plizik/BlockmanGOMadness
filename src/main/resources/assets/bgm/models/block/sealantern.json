@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/sea_lantern",
+    "up": "bgm:blocks/sea_lantern",
+    "north": "bgm:blocks/sea_lantern",
+    "east": "bgm:blocks/sea_lantern",
+    "south": "bgm:blocks/sea_lantern",
+    "west": "bgm:blocks/sea_lantern",
+    "particle": "bgm:blocks/sea_lantern"
+  }
+}

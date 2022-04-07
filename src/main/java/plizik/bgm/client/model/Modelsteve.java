@@ -1,0 +1,61 @@
+package plizik.bgm.client.model;
+
+import net.minecraft.world.entity.Entity;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.client.model.geom.builders.PartDefinition;
+import net.minecraft.client.model.geom.builders.MeshDefinition;
+import net.minecraft.client.model.geom.builders.LayerDefinition;
+import net.minecraft.client.model.geom.builders.CubeListBuilder;
+import net.minecraft.client.model.geom.builders.CubeDeformation;
+import net.minecraft.client.model.geom.PartPose;
+import net.minecraft.client.model.geom.ModelPart;
+import net.minecraft.client.model.geom.ModelLayerLocation;
+import net.minecraft.client.model.EntityModel;
+
+import com.mojang.blaze3d.vertex.VertexConsumer;
+import com.mojang.blaze3d.vertex.PoseStack;
+
+// Made with Blockbench 4.2.0
+// Exported for Minecraft version 1.17 with Mojang mappings
+// Paste this class into your mod and generate all required imports
+public class Modelsteve<T extends Entity> extends EntityModel<T> {
+	// This layer location should be baked with EntityRendererProvider.Context in
+	// the entity renderer and passed into this model's constructor
+	public static final ModelLayerLocation LAYER_LOCATION = new ModelLayerLocation(new ResourceLocation("bgm", "modelsteve"), "main");
+	public final ModelPart RBoot;
+	public final ModelPart LBoot;
+
+	public Modelsteve(ModelPart root) {
+		this.RBoot = root.getChild("RBoot");
+		this.LBoot = root.getChild("LBoot");
+	}
+
+	public static LayerDefinition createBodyLayer() {
+		MeshDefinition meshdefinition = new MeshDefinition();
+		PartDefinition partdefinition = meshdefinition.getRoot();
+		PartDefinition RBoot = partdefinition.addOrReplaceChild("RBoot",
+				CubeListBuilder.create().texOffs(0, 73).addBox(-6.1F, 3.7F, -3.0F, 5.0F, 3.0F, 6.0F, new CubeDeformation(0.0F)).texOffs(0, 64)
+						.addBox(-6.1F, 6.7F, -5.0F, 5.0F, 1.0F, 8.0F, new CubeDeformation(0.0F)).texOffs(7, 70)
+						.addBox(-6.1F, 5.7F, -4.0F, 5.0F, 1.0F, 1.0F, new CubeDeformation(0.0F)).texOffs(0, 82)
+						.addBox(-6.1F, 3.7F, -4.0F, 6.0F, 1.0F, 8.0F, new CubeDeformation(0.0F)),
+				PartPose.offset(6.1F, 16.3F, 0.0F));
+		PartDefinition LBoot = partdefinition.addOrReplaceChild("LBoot",
+				CubeListBuilder.create().texOffs(0, 73).addBox(-5.0F, -4.0F, -3.0F, 5.0F, 3.0F, 6.0F, new CubeDeformation(0.0F)).texOffs(0, 64)
+						.addBox(-5.0F, -1.0F, -5.0F, 5.0F, 1.0F, 8.0F, new CubeDeformation(0.0F)).texOffs(7, 70)
+						.addBox(-5.0F, -2.0F, -4.0F, 5.0F, 1.0F, 1.0F, new CubeDeformation(0.0F)).texOffs(0, 82)
+						.addBox(-6.0F, -4.0F, -4.0F, 6.0F, 1.0F, 8.0F, new CubeDeformation(0.0F)),
+				PartPose.offset(0.0F, 24.0F, 0.0F));
+		return LayerDefinition.create(meshdefinition, 128, 128);
+	}
+
+	@Override
+	public void setupAnim(T entity, float limbSwing, float limbSwingAmount, float ageInTicks, float netHeadYaw, float headPitch) {
+	}
+
+	@Override
+	public void renderToBuffer(PoseStack poseStack, VertexConsumer buffer, int packedLight, int packedOverlay, float red, float green, float blue,
+			float alpha) {
+		RBoot.render(poseStack, buffer, packedLight, packedOverlay);
+		LBoot.render(poseStack, buffer, packedLight, packedOverlay);
+	}
+}

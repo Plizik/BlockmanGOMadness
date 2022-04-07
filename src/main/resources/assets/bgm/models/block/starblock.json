@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/starry_sky",
+    "up": "bgm:blocks/starry_sky",
+    "north": "bgm:blocks/starry_sky",
+    "east": "bgm:blocks/starry_sky",
+    "south": "bgm:blocks/starry_sky",
+    "west": "bgm:blocks/starry_sky",
+    "particle": "bgm:blocks/starry_sky"
+  }
+}

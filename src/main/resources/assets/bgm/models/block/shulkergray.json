@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bgm:blocks/shulker_top_gray",
+    "particle": "bgm:blocks/shulker_top_gray"
+  }
+}

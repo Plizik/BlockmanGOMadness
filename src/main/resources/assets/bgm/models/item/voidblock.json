@@ -1,0 +1,7 @@
+{
+  "parent": "bgm:custom/voidblock",
+  "textures": {
+    "0": "bgm:blocks/lucky_block_hollow",
+    "particle": "bgm:items/lucky_block_hollow"
+  }
+}

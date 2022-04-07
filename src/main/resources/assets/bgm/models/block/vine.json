@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "bgm:blocks/vine",
+    "particle": "bgm:blocks/vine"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bgm:blocks/wool_colored_silver",
+    "particle": "bgm:blocks/wool_colored_silver"
+  }
+}

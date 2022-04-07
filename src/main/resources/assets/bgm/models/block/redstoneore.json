@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/redstone_ore",
+    "up": "bgm:blocks/redstone_ore",
+    "north": "bgm:blocks/redstone_ore",
+    "east": "bgm:blocks/redstone_ore",
+    "south": "bgm:blocks/redstone_ore",
+    "west": "bgm:blocks/redstone_ore",
+    "particle": "bgm:blocks/redstone_ore"
+  }
+}

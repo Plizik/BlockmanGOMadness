@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/redstone_lamp_on",
+    "up": "bgm:blocks/redstone_lamp_on",
+    "north": "bgm:blocks/redstone_lamp_on",
+    "east": "bgm:blocks/redstone_lamp_on",
+    "south": "bgm:blocks/redstone_lamp_on",
+    "west": "bgm:blocks/redstone_lamp_on",
+    "particle": "bgm:blocks/redstone_lamp_on"
+  }
+}

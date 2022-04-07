@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/christmas_pure11",
+    "up": "bgm:blocks/christmas_pure11",
+    "north": "bgm:blocks/christmas_pure11",
+    "east": "bgm:blocks/christmas_pure11",
+    "south": "bgm:blocks/christmas_pure11",
+    "west": "bgm:blocks/christmas_pure11",
+    "particle": "bgm:blocks/christmas_pure11"
+  }
+}

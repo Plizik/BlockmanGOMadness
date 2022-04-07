@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/stone_andesite",
+    "up": "bgm:blocks/stone_andesite",
+    "north": "bgm:blocks/stone_andesite",
+    "east": "bgm:blocks/stone_andesite",
+    "south": "bgm:blocks/stone_andesite",
+    "west": "bgm:blocks/stone_andesite",
+    "particle": "bgm:blocks/stone_andesite"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/mob_spawner",
+    "up": "bgm:blocks/mob_spawner",
+    "north": "bgm:blocks/mob_spawner",
+    "east": "bgm:blocks/mob_spawner",
+    "south": "bgm:blocks/mob_spawner",
+    "west": "bgm:blocks/mob_spawner",
+    "particle": "bgm:blocks/mob_spawner"
+  }
+}

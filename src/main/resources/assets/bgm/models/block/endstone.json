@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/end_stone",
+    "up": "bgm:blocks/end_stone",
+    "north": "bgm:blocks/end_stone",
+    "east": "bgm:blocks/end_stone",
+    "south": "bgm:blocks/end_stone",
+    "west": "bgm:blocks/end_stone",
+    "particle": "bgm:blocks/end_stone"
+  }
+}

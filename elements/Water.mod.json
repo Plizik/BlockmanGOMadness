@@ -1,0 +1,47 @@
+{
+  "_fv": 25,
+  "_type": "fluid",
+  "definition": {
+    "name": "Water",
+    "bucketName": "Water Bucket",
+    "textureStill": "water_still",
+    "textureFlowing": "water_flow",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 5,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "water_bucket",
+    "creativeTab": {
+      "value": "CUSTOM:BgmItems"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": []
+  }
+}

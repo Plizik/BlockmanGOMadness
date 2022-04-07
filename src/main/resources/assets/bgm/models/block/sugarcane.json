@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "bgm:blocks/reeds",
+    "particle": "bgm:blocks/reeds"
+  }
+}

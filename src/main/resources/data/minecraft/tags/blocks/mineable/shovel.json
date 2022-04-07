@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "bgm:concretepowderblack",
+    "bgm:concretepowderblue",
+    "bgm:concretepowderbrown",
+    "bgm:concretepowdercyan",
+    "bgm:concretepowdergray",
+    "bgm:concretepowdergreen",
+    "bgm:concretepowderlightblue",
+    "bgm:concretepowderlime",
+    "bgm:concretepowdermagenta",
+    "bgm:concretepowderorange",
+    "bgm:concretepowderpink",
+    "bgm:concretepowderred",
+    "bgm:concretepowderpurple",
+    "bgm:concretepowdersilver",
+    "bgm:concretepowderwhite",
+    "bgm:concretepowderyellow"
+  ]
+}

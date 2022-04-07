@@ -1,0 +1,11 @@
+{
+  "_fv": 25,
+  "_type": "tab",
+  "definition": {
+    "name": "Bgm Items",
+    "icon": {
+      "value": "CUSTOM:Amethystpickaxe"
+    },
+    "showSearch": true
+  }
+}

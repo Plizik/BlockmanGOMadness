@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/defencetower",
+    "up": "bgm:blocks/defencetower",
+    "north": "bgm:blocks/defencetower",
+    "east": "bgm:blocks/defencetower",
+    "south": "bgm:blocks/defencetower",
+    "west": "bgm:blocks/defencetower",
+    "particle": "bgm:blocks/defencetower"
+  }
+}

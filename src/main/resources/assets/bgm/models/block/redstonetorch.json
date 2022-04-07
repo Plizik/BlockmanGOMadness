@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "bgm:blocks/redstone_torch_on",
+    "particle": "bgm:blocks/redstone_torch_on"
+  }
+}

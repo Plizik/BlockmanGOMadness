@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/concrete_pink",
+    "up": "bgm:blocks/concrete_pink",
+    "north": "bgm:blocks/concrete_pink",
+    "east": "bgm:blocks/concrete_pink",
+    "south": "bgm:blocks/concrete_pink",
+    "west": "bgm:blocks/concrete_pink",
+    "particle": "bgm:blocks/concrete_pink"
+  }
+}

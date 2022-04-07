@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/piston_bottom",
+    "up": "bgm:blocks/piston_top_normal",
+    "north": "bgm:blocks/piston_side",
+    "east": "bgm:blocks/piston_side",
+    "south": "bgm:blocks/piston_side",
+    "west": "bgm:blocks/piston_side",
+    "particle": "bgm:blocks/piston_bottom"
+  }
+}

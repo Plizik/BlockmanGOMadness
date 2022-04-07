@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/log_oak_top",
+    "up": "bgm:blocks/log_oak_top",
+    "north": "bgm:blocks/log_oak",
+    "east": "bgm:blocks/log_oak",
+    "south": "bgm:blocks/log_oak",
+    "west": "bgm:blocks/log_oak",
+    "particle": "bgm:blocks/log_oak_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/dirt_top",
+    "up": "bgm:blocks/dirt_podzol_top",
+    "north": "bgm:blocks/dirt_podzol_side",
+    "east": "bgm:blocks/dirt_podzol_side",
+    "south": "bgm:blocks/dirt_podzol_side",
+    "west": "bgm:blocks/dirt_podzol_side",
+    "particle": "bgm:blocks/dirt_top"
+  }
+}

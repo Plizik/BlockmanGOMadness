@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/shulker_top_purple",
+    "up": "bgm:blocks/shulker_top_purple",
+    "north": "bgm:blocks/shulker_top_purple",
+    "east": "bgm:blocks/shulker_top_purple",
+    "south": "bgm:blocks/shulker_top_purple",
+    "west": "bgm:blocks/shulker_top_purple",
+    "particle": "bgm:blocks/shulker_top_purple"
+  }
+}

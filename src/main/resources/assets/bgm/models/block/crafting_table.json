@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/crafting_table_side",
+    "up": "bgm:blocks/crafting_table_top",
+    "north": "bgm:blocks/crafting_table_front",
+    "east": "bgm:blocks/crafting_table_front",
+    "south": "bgm:blocks/crafting_table_front",
+    "west": "bgm:blocks/crafting_table_front",
+    "particle": "bgm:blocks/crafting_table_side"
+  }
+}

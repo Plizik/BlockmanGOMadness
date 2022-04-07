@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/common_red_bottom",
+    "up": "bgm:blocks/common_red_top",
+    "north": "bgm:blocks/common_red_side",
+    "east": "bgm:blocks/common_red_side",
+    "south": "bgm:blocks/common_red_side",
+    "west": "bgm:blocks/common_red_side",
+    "particle": "bgm:blocks/common_red_bottom"
+  }
+}

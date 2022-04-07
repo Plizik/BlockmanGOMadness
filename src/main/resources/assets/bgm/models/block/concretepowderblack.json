@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/concrete_powder_black",
+    "up": "bgm:blocks/concrete_powder_black",
+    "north": "bgm:blocks/concrete_powder_black",
+    "east": "bgm:blocks/concrete_powder_black",
+    "south": "bgm:blocks/concrete_powder_black",
+    "west": "bgm:blocks/concrete_powder_black",
+    "particle": "bgm:blocks/concrete_powder_black"
+  }
+}

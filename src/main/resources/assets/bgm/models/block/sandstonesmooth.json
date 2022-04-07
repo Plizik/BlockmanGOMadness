@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/sandstone_bottom",
+    "up": "bgm:blocks/sandstone_top",
+    "north": "bgm:blocks/sandstone_carved",
+    "east": "bgm:blocks/sandstone_carved",
+    "south": "bgm:blocks/sandstone_carved",
+    "west": "bgm:blocks/sandstone_carved",
+    "particle": "bgm:blocks/sandstone_bottom"
+  }
+}

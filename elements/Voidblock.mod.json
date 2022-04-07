@@ -1,0 +1,40 @@
+{
+  "_fv": 25,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "lucky_block_hollow",
+    "customModelName": "voidblock:default",
+    "name": "Void block",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:BgmItems"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Saves from death from the void. Of course",
+      "if you don't have a roof above you :)"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onItemInInventoryTick": {
+      "name": "VoidblockItemInVoid"
+    },
+    "hasDispenseBehavior": false
+  }
+}

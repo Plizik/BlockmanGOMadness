@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/jin_right",
+    "up": "bgm:blocks/jin_top",
+    "north": "bgm:blocks/jin_left",
+    "east": "bgm:blocks/jin_left",
+    "south": "bgm:blocks/jin_left",
+    "west": "bgm:blocks/jin_left",
+    "particle": "bgm:blocks/jin_right"
+  }
+}

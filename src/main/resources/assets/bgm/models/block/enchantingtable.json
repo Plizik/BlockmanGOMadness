@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/enchanting_table_bottom",
+    "up": "bgm:blocks/enchanting_table_top",
+    "north": "bgm:blocks/enchanting_table_side",
+    "east": "bgm:blocks/enchanting_table_side",
+    "south": "bgm:blocks/enchanting_table_side",
+    "west": "bgm:blocks/enchanting_table_side",
+    "particle": "bgm:blocks/enchanting_table_bottom"
+  }
+}

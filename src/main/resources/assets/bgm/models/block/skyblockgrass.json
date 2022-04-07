@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/dirt_new",
+    "up": "bgm:blocks/grass_new_top",
+    "north": "bgm:blocks/grass_new_side",
+    "east": "bgm:blocks/grass_new_side",
+    "south": "bgm:blocks/grass_new_side",
+    "west": "bgm:blocks/grass_new_side",
+    "particle": "bgm:blocks/dirt_new"
+  }
+}

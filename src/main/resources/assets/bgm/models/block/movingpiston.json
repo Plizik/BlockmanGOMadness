@@ -1,0 +1,9 @@
+{
+  "parent": "bgm:custom/movingpiston",
+  "textures": {
+    "all": "bgm:blocks/piston_top_normal",
+    "particle": "bgm:blocks/piston_top_normal",
+    "0": "bgm:blocks/leg",
+    "1": "bgm:blocks/piston_top_normal"
+  }
+}

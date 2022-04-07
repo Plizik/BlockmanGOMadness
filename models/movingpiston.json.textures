@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leg",
+        "1": "piston_top_normal"
+      },
+      "name": "default"
+    }
+  }
+}

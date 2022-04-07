@@ -1,0 +1,947 @@
+{
+  "defeattheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:defeattheme",
+        "stream": false
+      }
+    ]
+  },
+  "itrosea": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:itrosea",
+        "stream": false
+      }
+    ]
+  },
+  "loadingtheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:loadingtheme",
+        "stream": false
+      }
+    ]
+  },
+  "select": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:select",
+        "stream": false
+      }
+    ]
+  },
+  "selectold": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:selectold",
+        "stream": false
+      }
+    ]
+  },
+  "arrowhit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:arrowhit",
+        "stream": false
+      }
+    ]
+  },
+  "animehit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:anime_hit",
+        "stream": false
+      }
+    ]
+  },
+  "animekill": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:anime_kill",
+        "stream": false
+      }
+    ]
+  },
+  "gunbaleite": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:baleite",
+        "stream": false
+      }
+    ]
+  },
+  "gungatlingshot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gatlingshot1",
+        "stream": false
+      }
+    ]
+  },
+  "gungatlingshot2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gatlingshot2",
+        "stream": false
+      }
+    ]
+  },
+  "gungatlingshot3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gatlingshot3",
+        "stream": false
+      }
+    ]
+  },
+  "gungatlingshot1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gatlingshot1",
+        "stream": false
+      }
+    ]
+  },
+  "gungatlingshot4": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gatlingshot4",
+        "stream": false
+      }
+    ]
+  },
+  "gunhuojiantong": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gun_huojiantong",
+        "stream": false
+      }
+    ]
+  },
+  "gunjiguang": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gun_jiguang",
+        "stream": false
+      }
+    ]
+  },
+  "gunjiguangbu": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gun_jiguangbu",
+        "stream": false
+      }
+    ]
+  },
+  "gunjiguangju": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gun_jiguangju",
+        "stream": false
+      }
+    ]
+  },
+  "gunsd": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gun_sd",
+        "stream": false
+      }
+    ]
+  },
+  "gunreloadak": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gunreloadak",
+        "stream": false
+      }
+    ]
+  },
+  "gunreloadpistol": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:gunreloadpistol",
+        "stream": false
+      }
+    ]
+  },
+  "guniceshoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:iceshoot",
+        "stream": false
+      }
+    ]
+  },
+  "gunm4a1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:m4a1",
+        "stream": false
+      }
+    ]
+  },
+  "gunnobullet": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:no_bullet",
+        "stream": false
+      }
+    ]
+  },
+  "gunreloadlight": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:reload_light",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotak1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotak1",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotak2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotak2",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotpistol": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotpistol",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotshotguns": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotshotguns",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotsniper": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotsniper",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotsubmachine1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotsubmachine1",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotsubmachine2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotsubmachine2",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotsubmachine3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotsubmachine3",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotsubmachineabc": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotsubmachineabc",
+        "stream": false
+      }
+    ]
+  },
+  "gunshotwater": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:shotwater",
+        "stream": false
+      }
+    ]
+  },
+  "gunsniperrifle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:sniperrifle",
+        "stream": false
+      }
+    ]
+  },
+  "buy1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:buy1",
+        "stream": false
+      }
+    ]
+  },
+  "buy2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:buy2",
+        "stream": false
+      }
+    ]
+  },
+  "cannon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:cannon",
+        "stream": false
+      }
+    ]
+  },
+  "celebration": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:celebration",
+        "stream": false
+      }
+    ]
+  },
+  "celebration2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:celebration2",
+        "stream": false
+      }
+    ]
+  },
+  "completeadd": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:completeadd",
+        "stream": false
+      }
+    ]
+  },
+  "completehide": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:completehide",
+        "stream": false
+      }
+    ]
+  },
+  "convert": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:convert",
+        "stream": false
+      }
+    ]
+  },
+  "countdownclose": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:count_down_close",
+        "stream": false
+      }
+    ]
+  },
+  "countdownnormal": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:count_down_normal",
+        "stream": false
+      }
+    ]
+  },
+  "getitem10571066": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:get_item_1057_1066",
+        "stream": false
+      }
+    ]
+  },
+  "getitem10671084": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:get_item_1067_1084",
+        "stream": false
+      }
+    ]
+  },
+  "levelup": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:level_up",
+        "stream": false
+      }
+    ]
+  },
+  "lose": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:lose",
+        "stream": false
+      }
+    ]
+  },
+  "openlootchest": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:openlootchest",
+        "stream": false
+      }
+    ]
+  },
+  "purchase": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:purchase",
+        "stream": false
+      }
+    ]
+  },
+  "resultc": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:result_c",
+        "stream": false
+      }
+    ]
+  },
+  "spell": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:spell",
+        "stream": false
+      }
+    ]
+  },
+  "taskdone": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:task_done",
+        "stream": false
+      }
+    ]
+  },
+  "win": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:win",
+        "stream": false
+      }
+    ]
+  },
+  "bwhalltheme": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:bwhalltheme",
+        "stream": false
+      }
+    ]
+  },
+  "airhit1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:airhit1",
+        "stream": false
+      }
+    ]
+  },
+  "airhit2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:airhit2",
+        "stream": false
+      }
+    ]
+  },
+  "block1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:block1",
+        "stream": false
+      }
+    ]
+  },
+  "block2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:block2",
+        "stream": false
+      }
+    ]
+  },
+  "glass1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:glass1",
+        "stream": false
+      }
+    ]
+  },
+  "glass2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:glass2",
+        "stream": false
+      }
+    ]
+  },
+  "grass": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:grass",
+        "stream": false
+      }
+    ]
+  },
+  "leafgrass": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:leaf-grass",
+        "stream": false
+      }
+    ]
+  },
+  "metal1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:metal1",
+        "stream": false
+      }
+    ]
+  },
+  "metal2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:metal2",
+        "stream": false
+      }
+    ]
+  },
+  "sand": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:sand",
+        "stream": false
+      }
+    ]
+  },
+  "snow": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:snow",
+        "stream": false
+      }
+    ]
+  },
+  "wood1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:wood1",
+        "stream": false
+      }
+    ]
+  },
+  "wood2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:wood2",
+        "stream": false
+      }
+    ]
+  },
+  "fire": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:fire",
+        "stream": false
+      }
+    ]
+  },
+  "flowingwater": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:flowingwater",
+        "stream": false
+      }
+    ]
+  },
+  "splash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:splash",
+        "stream": false
+      }
+    ]
+  },
+  "swimming": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:swimming",
+        "stream": false
+      }
+    ]
+  },
+  "zombiedeath": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bgm:zombiedeath",
+        "stream": false
+      }
+    ]
+  },
+  "zombiehurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "bgm:zombiehurt",
+        "stream": false
+      }
+    ]
+  },
+  "bow1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:bow1",
+        "stream": false
+      }
+    ]
+  },
+  "bow2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:bow2",
+        "stream": false
+      }
+    ]
+  },
+  "chestclosed": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:chestclosed",
+        "stream": false
+      }
+    ]
+  },
+  "chestopen": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:chestopen",
+        "stream": false
+      }
+    ]
+  },
+  "doorclose": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:door_close",
+        "stream": false
+      }
+    ]
+  },
+  "dooropen": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:door_open",
+        "stream": false
+      }
+    ]
+  },
+  "drink": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:drink",
+        "stream": false
+      }
+    ]
+  },
+  "eat": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:eat",
+        "stream": false
+      }
+    ]
+  },
+  "entityhurt": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:entityhurt",
+        "stream": false
+      }
+    ]
+  },
+  "explode": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:explode",
+        "stream": false
+      }
+    ]
+  },
+  "landing": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:landing",
+        "stream": false
+      }
+    ]
+  },
+  "successfulbuy": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "bgm:successful_buy",
+        "stream": false
+      }
+    ]
+  },
+  "lowfall2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:lowfall2",
+        "stream": false
+      }
+    ]
+  },
+  "lowfall1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:lowfall1",
+        "stream": false
+      }
+    ]
+  },
+  "highfall": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:highfall",
+        "stream": false
+      }
+    ]
+  },
+  "stepcloth1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:cloth1",
+        "stream": false
+      }
+    ]
+  },
+  "stepcloth2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:cloth2",
+        "stream": false
+      }
+    ]
+  },
+  "stepglass": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:glass",
+        "stream": false
+      }
+    ]
+  },
+  "stepgrass1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:grass1",
+        "stream": false
+      }
+    ]
+  },
+  "stepgrass2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:grass2",
+        "stream": false
+      }
+    ]
+  },
+  "stepgravel": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:gravel",
+        "stream": false
+      }
+    ]
+  },
+  "stepladder": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:ladder",
+        "stream": false
+      }
+    ]
+  },
+  "stepsand": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:sand",
+        "stream": false
+      }
+    ]
+  },
+  "stepsnow": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:snow",
+        "stream": false
+      }
+    ]
+  },
+  "stepstone": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:stone",
+        "stream": false
+      }
+    ]
+  },
+  "stepwood2": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:wood2",
+        "stream": false
+      }
+    ]
+  },
+  "stepwood1": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "bgm:wood1",
+        "stream": false
+      }
+    ]
+  },
+  "bonk": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "bgm:bonk",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/coarse_dirt",
+    "up": "bgm:blocks/coarse_dirt",
+    "north": "bgm:blocks/coarse_dirt",
+    "east": "bgm:blocks/coarse_dirt",
+    "south": "bgm:blocks/coarse_dirt",
+    "west": "bgm:blocks/coarse_dirt",
+    "particle": "bgm:blocks/coarse_dirt"
+  }
+}

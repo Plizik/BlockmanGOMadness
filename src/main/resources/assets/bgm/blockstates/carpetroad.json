@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "bgm:block/carpetroad"
+    },
+    "powered=true": {
+      "model": "bgm:block/carpetroad_down"
+    }
+  }
+}

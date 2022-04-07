@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bgm:blocks/end_bricks",
+    "up": "bgm:blocks/end_bricks",
+    "north": "bgm:blocks/end_bricks",
+    "east": "bgm:blocks/end_bricks",
+    "south": "bgm:blocks/end_bricks",
+    "west": "bgm:blocks/end_bricks",
+    "particle": "bgm:blocks/end_bricks"
+  }
+}
