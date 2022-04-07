@@ -5,3 +5,5 @@ Mod itself represents features from Blockman GO Adventures to Minecraft. If you 
 Link: https://files.minecraftforge.net/net/minecraftforge/forge/
 
 Creators id: ~1183114448~ (banned, use 3525986672 to add me. Russian region)
+
+Mod made in MCreator, models made in Blockbench by me.
