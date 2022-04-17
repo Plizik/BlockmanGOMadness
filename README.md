@@ -4,6 +4,8 @@ All rights on Blockman GO reserved by Sandboxol Network Technologies, Blockman G
 Mod itself represents features from Blockman GO Adventures to Minecraft. If you want to download it, use Forge 1.18.2 (recent version)
 Link: https://files.minecraftforge.net/net/minecraftforge/forge/
 
+At first it was a Resource pack. Wanna check it out? https://www.planetminecraft.com/texture-pack/blockman-go-madness-minecraft-java-bedrock-edition-resourcepack-made-by-plizik/
+
 Creators id: ~1183114448~ (banned, use 3525986672 to add me. Russian region)
 
 Mod made in MCreator, models made in Blockbench by me.
